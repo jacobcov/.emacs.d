@@ -1,2 +1,2 @@
 # .emacs.d
-My emacs setup
+My emacs setup (a work in progress)
